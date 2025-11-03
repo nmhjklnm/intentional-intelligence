@@ -14,5 +14,5 @@ alwaysApply: false
 ```markdown
 #### [ ] **类型名称**
 - 概念描述。功能说明。语法：`TypeName[参数]`。其他注意事项。
-- example:
+- 解释:
 ```
