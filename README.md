@@ -1,5 +1,13 @@
 # Python Typing & Collections Mindmaps
 
+<p>
+  <strong>在线访问:</strong>
+  <a href="https://github.com/nmhjklnm/Typing_System_MindMap" target="_blank" style="display:inline-flex;align-items:center;gap:4px;">
+    <img src="https://github.githubassets.com/favicons/favicon.svg" alt="Docs" style="width:18px;">
+    <span>Docs</span>
+  </a>
+</p>
+
 - Python typing 与 collections思维导图 
 - 类型系统与设计模式思维导图.
 
@@ -36,5 +44,4 @@
 
 ---
 
-**在线访问**: [Docs](https://github.com/nmhjklnm/Typing_System_MindMap)
 
